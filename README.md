@@ -1,3 +1,1 @@
-Olá, 
-
-Sou desenvolvedor C# .NET!
+C# .NET Developer
