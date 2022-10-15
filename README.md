@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/joelsonfoliveira/" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="joelsonfoliveira"/>
   </a>
+  <a href="mailto:joelsonfoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/-joelsonfoliveira@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:joelsonfoliveira@gmail.com" alt="Gmail"/>
+  </a>
 </p>
 
 <br />
