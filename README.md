@@ -12,3 +12,7 @@
   <a href="https://www.linkedin.com/in/joelsonfoliveira/" target="blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="joelsonfoliveira"/></a>
 </p>
+
+<p align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=joelsonfoliveira&theme=tokyonight&hide_border=true" />
+</p>
