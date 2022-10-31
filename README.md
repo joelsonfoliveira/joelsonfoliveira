@@ -16,3 +16,7 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=joelsonfoliveira&theme=tokyonight&hide_border=true" />
+</div>
