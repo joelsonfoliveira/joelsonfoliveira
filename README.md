@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joelsonfoliveira" alt="joelsonfoliveira" /> </p>
 
-- 🔭 Developer at Pmenoslab.
+- 🔭 Developer at Pmenoslab
 - 🌱 Currently working with **C#, .NET, TypeScript and ReactJS, SQL and Azure DevOps**
 - 📚 Studing clean code, design pattern and back-end in C# .NET
 - 🤝 Looking to collaborate
