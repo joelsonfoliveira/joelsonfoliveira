@@ -6,6 +6,7 @@
 - 🌱 Currently working with **C#, .NET, TypeScript and ReactJS, SQL and Azure DevOps**
 - 📚 Studing clean code, design pattern and back-end in C# .NET
 - 🤝 Looking to collaborate
+- .NET 6
 
 <br />
 
