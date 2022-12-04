@@ -2,11 +2,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joelsonfoliveira" alt="joelsonfoliveira" /> </p>
 
-- 🔭 Developer at PmenosLab
-- 🌱 Currently working with **C#, .NET, TypeScript and ReactJS, SQL and Azure DevOps**
+- 👨‍💻 Developer at PmenosLab
+- 👔 Currently working with **C#, .NET, TypeScript and ReactJS, SQL and Azure DevOps**
 - 📚 Studing clean code, design pattern and back-end in C# .NET
 - 🤝 Looking to collaborate
-- .NET 6, TypeScript
+- 💻 .NET 6, TypeScript
 
 <br />
 
