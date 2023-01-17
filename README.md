@@ -6,7 +6,7 @@
 - 👔 Currently working with **C#, .NET, TypeScript and ReactJS, SQL and Azure DevOps**
 - 📚 Studing clean code, design pattern and back-end in C# .NET
 - 🤝 Looking to collaborate
-- 💻 C#, .NET 6, TypeScript, SQLServer, React, JavaScript, HTML, CSS, SASS, Figma, CSS Selector, Azure Pipelines
+- 💻 C#, .NET 6, TypeScript, SQLServer, React, JavaScript, HTML, CSS, SASS, Figma, CSS Selector, Azure Pipelines, Azure Boards
 
 <br />
 
