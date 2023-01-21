@@ -8,6 +8,7 @@
 - 🤝 Looking to collaborate
 - 💻 C#, .NET 6, TypeScript, SQLServer, React, JavaScript, HTML, CSS, SASS, Figma, CSS Selector, Azure Pipelines, Azure Boards, Unit Test, Git, Shell Script
 
+
 <br />
 
 <div align="center">
