@@ -9,7 +9,7 @@
 - 💻 C#, .NET 6, TypeScript, SQLServer, React, JavaScript, HTML, CSS, SASS, Figma, CSS Selector, Azure Pipelines, Azure Boards, Unit Test, Git, Shell Script,OO Fundamentals 
 
 
-<br />
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joelsonfoliveira/" target="_blank">
