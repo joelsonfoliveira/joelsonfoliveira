@@ -4,7 +4,7 @@
 
 - 👨‍💻 Fullstack Developer at PmenosLab
 - 👔 Currently working with **C#, .NET, TypeScript and ReactJS, SQL and Azure DevOps**
-- 📚 Studing clean code, design pattern and back-end in C# .NET
+- 📚 Studing algorithm
 - 🤝 Looking to collaborate
 - 💻 C#, .NET 6, TypeScript, SQLServer, React, JavaScript, HTML, CSS, SASS, Figma, CSS Selector, Azure Pipelines, Azure Boards, Unit Test, Git, Shell Script, OO Fundamentals, Code refactoring
 
