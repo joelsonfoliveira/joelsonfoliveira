@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joelsonfoliveira" alt="joelsonfoliveira" /> </p>
 
 - 👨‍💻 Fullstack Developer at PmenosLab
-- 👔 Currently working with **C#, .NET, TypeScript and ReactJS, SQL and Azure DevOps**
+- 👔 Currently working with **C#, .NET, JavaScript, TypeScript and ReactJS, SQL and Azure DevOps**
 - 📚 Studing algorithm
 - 🤝 Looking to collaborate
 - 💻 C#, .NET 6, TypeScript, SQLServer, React, JavaScript, HTML, CSS, SASS, Figma, CSS Selector, Azure Pipelines, Azure Boards, Unit Test, Git, Shell Script, OO Fundamentals, Code refactoring
