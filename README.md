@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joelsonfoliveira" alt="joelsonfoliveira" /> </p>
 
-- 👨‍💻 I’m currently working as a full stack developer at PmenosLab
+- 👨‍💻 I’m currently working as a Software Engineer at PmenosLab
 - 👔 **C#, .NET, JavaScript, TypeScript and ReactJS, SQL and Azure DevOps**
-- 📚 Studing algorithm
+- 📚 I love algorithms!
 - 🤝 Looking to collaborate
 
 <br/>
