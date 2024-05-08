@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joelsonfoliveira" alt="joelsonfoliveira" /> </p>
 
 - 👨‍💻 BS in Computer Science at Centro Universitário Farias Brito
-- 👔 .NET Developer at Empreendimentos Pague Menos
+- 👔 .NET Developer at Fortes Tecnologia
 - 📚 CTFL - Certified Tester Foundation Level
 
 <br/>
